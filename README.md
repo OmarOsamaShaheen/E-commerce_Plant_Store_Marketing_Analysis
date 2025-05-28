@@ -19,8 +19,8 @@ Analyze sales data to identify top-performing products and trends.
 ![Screenshot 2025-05-28 173609](https://github.com/user-attachments/assets/ffe093f7-dee5-4456-ab70-5b80686afe5a)
 ![Screenshot 2025-05-28 173641](https://github.com/user-attachments/assets/a1c21a92-a799-4fe6-a04f-8821aebe6329)
 ## Deep Dive: Understanding Unique Customer Acquisition Pathways
-Insight: Through a detailed examination of campaign performance, a deep dive into unique customer acquisition patterns revealed critical channel effectiveness and synergistic contributions.
-Implication for Strategy: This detailed understanding of unique customer sources across different campaign combinations provides invaluable data for refining multi-channel marketing budgets and developing more targeted acquisition strategies.
+  + Insight: Through a detailed examination of campaign performance, a deep dive into unique customer acquisition patterns revealed critical channel effectiveness and synergistic contributions.
+  + Implication for Strategy: This detailed understanding of unique customer sources across different campaign combinations provides invaluable data for refining multi-channel marketing budgets and developing more targeted acquisition strategies.
 ![Screenshot 2025-05-28 173701](https://github.com/user-attachments/assets/e874ee4b-797a-4ea2-8d5c-5a958a1848e7)
 
 
